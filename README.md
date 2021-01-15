@@ -1,6 +1,3 @@
-# roxy-boat-template
-Discord Bot Template (Have A Music Code And Fun Code!)
-
 # Roxy Boat 
 For Default Prefix Is ..
 
@@ -20,3 +17,16 @@ description: "Nothing",
 }
 
 ```
+
+### To Start Music Commands Add Variable In .env 
+```
+Name : TOKEN
+
+Value : (Your Discord Bot Token!)
+```
+
+
+
+## NEED HELP?
+
+#### [JOIN DISCORD SERVER!!](https://discord.gg/S2SeDTe)
